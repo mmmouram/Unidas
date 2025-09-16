@@ -1,0 +1,11 @@
+.item-locacao {
+  padding: 10px;
+  border: 1px solid #ccc;
+  border-radius: 5px;
+  cursor: pointer;
+  transition: background-color 0.3s;
+}
+
+.item-locacao:hover {
+  background-color: #f0f0f0;
+}
